@@ -91,7 +91,7 @@ Kotlin and Swift for both platforms.
 **[Scoon](https://github.com/hennees/scoon-showcase)**
 
 Community platform where photographers find and share shooting locations. Own
-venture with **Itanic** and **Kyri Agency**. Product concept and user flows,
+venture with **[ITanic GmbH](https://itanic.at)** and **[Kyri Agency](https://www.kyri.agency/)**. Product concept and user flows,
 including the model that pays contributors for the places they add.
 [scoon-app.com](https://scoon-app.com) · [@scoon.app](https://instagram.com/scoon.app)
 

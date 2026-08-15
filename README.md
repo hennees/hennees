@@ -2,8 +2,8 @@
 
 <br>
 
-Finishing an MSc in eHealth at FH JOANNEUM. I build apps in Swift, Kotlin and
-Flutter, and my day job is the other side of it: testing and releasing
+I design and build mobile apps, and I finish an MSc in eHealth at FH JOANNEUM
+this September. My day job is the other side of it: testing and releasing
 telemedicine systems that run in Austrian care programmes.
 
 Watching where software fails once real people depend on it is the best design
@@ -15,48 +15,58 @@ education I have had.
 
 <table>
 <tr>
-<td width="170" align="center"><a href="https://github.com/hennees/pairfect-showcase"><img src="assets/pairfect.png" width="150"></a></td>
-<td>
+<td width="170" valign="top" align="center"><a href="https://github.com/hennees/pairfect-showcase"><img src="assets/pairfect.png" width="150"></a></td>
+<td valign="top">
 
-#### [Pairfect](https://github.com/hennees/pairfect-showcase)
+### [Pairfect](https://github.com/hennees/pairfect-showcase)
 
-An app for two people. Built solo in nine months next to a full-time master's
-and a job.
+An app for two people. Shared memories, a map of where you have been, plans and
+daily rituals. Built alone in nine months, next to a full-time master's and a
+job.
 
-<sub>78,000 lines of Dart · serverless backend · subscriptions · offline maps · iOS widgets</sub>
+`Flutter` `Firebase` `RevenueCat` `Mapbox` `WidgetKit`
 
-</td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/hennees/amigon-showcase"><img src="assets/amigon.png" width="150"></a></td>
-<td>
-
-#### [Amigon](https://github.com/hennees/amigon-showcase)
-
-A mental health companion you talk to. Every result becomes an HL7 FHIR R4
-Observation, so it still means something outside the app.
-
-<sub>Master's thesis · 20 participants · <b>SUS 86.8</b> · Flutter · LLM and acoustic analysis</sub>
+<sub>78,000 lines of Dart · 11 feature modules · serverless backend · offline maps · 493 commits</sub>
 
 </td>
 </tr>
+<tr><td colspan="2"><br></td></tr>
 <tr>
-<td align="center"><a href="https://github.com/hennees/strykerlabs-showcase"><img src="assets/stryker.png" width="150"></a></td>
-<td>
+<td valign="top" align="center"><a href="https://github.com/hennees/amigon-showcase"><img src="assets/amigon.png" width="150"></a></td>
+<td valign="top">
 
-#### [Wearable Dashboard](https://github.com/hennees/strykerlabs-showcase)
+### [Amigon](https://github.com/hennees/amigon-showcase)
+
+A mental health companion you talk to instead of filling in. Every result
+becomes an HL7 FHIR R4 Observation, so a score still means something once it
+leaves the app.
+
+`Flutter` `Python` `HL7 FHIR R4` `LLM + acoustic analysis`
+
+<sub>Master's thesis · evaluated with 20 participants · <b>SUS 86.8</b>, against a 68 benchmark</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td valign="top" align="center"><a href="https://github.com/hennees/strykerlabs-showcase"><img src="assets/stryker.png" width="150"></a></td>
+<td valign="top">
+
+### [Wearable Dashboard](https://github.com/hennees/strykerlabs-showcase)
 
 Heart rate, sleep and activity from different vendors, harmonised into one model
 for research. I built the Garmin integration and the dashboard.
 
-<sub>With Strykerlabs GmbH · <a href="https://www.fh-joanneum.at/projekt/strykerlabs/">published by FH JOANNEUM</a> · TypeScript · OAuth 2.0 PKCE · webhooks</sub>
+`TypeScript` `React` `OAuth 2.0 PKCE` `Webhooks` `PostgreSQL`
+
+<sub>With Strykerlabs GmbH · <a href="https://www.fh-joanneum.at/projekt/strykerlabs/">published by FH JOANNEUM</a></sub>
 
 </td>
 </tr>
 </table>
 
-Also: **[Scoon](https://github.com/hennees/scoon-showcase)**, a location
-platform for photographers, and **[Anno Amsterdam](https://github.com/hennees/anno-amsterdam-showcase)**,
+Also **[Scoon](https://github.com/hennees/scoon-showcase)**, a location platform
+for photographers, and **[Anno Amsterdam](https://github.com/hennees/anno-amsterdam-showcase)**,
 an AR app built for the city's 750th anniversary.
 
 <br>
@@ -64,11 +74,14 @@ an AR app built for the city's 750th anniversary.
 ## Open source
 
 **[exif_scrubber](https://github.com/hennees/exif_scrubber)** — strips EXIF and
-XMP from JPEGs losslessly. Pure Dart, 17 tests. Pulled out of a production app,
-where a photo leaving a phone carries its owner's home address in the file
-header.
+XMP from JPEGs losslessly, without re-encoding pixels. Pure Dart, 17 tests.
+Pulled out of a production app, because a photo leaving a phone carries its
+owner's home address in the file header.
 
-**[pokedex-swiftui](https://github.com/hennees/pokedex-swiftui)** · **[newsapp-compose](https://github.com/hennees/newsapp-compose)** — university projects from 2023 and 2024, published as they were written, each ending with what I would do differently now.
+**[pokedex-swiftui](https://github.com/hennees/pokedex-swiftui)** and
+**[newsapp-compose](https://github.com/hennees/newsapp-compose)** — university
+projects from 2023 and 2024, published as they were written. Each ends with what
+I would do differently now.
 
 <br>
 

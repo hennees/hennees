@@ -98,7 +98,7 @@ including the model that pays contributors for the places they add.
 </td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/hennees/strykerlabs-showcase"><img src="https://cdn3.fh-joanneum.at/media/2026/06/stryker_Bild1.jpeg" width="150"></a></td>
+<td align="center"><a href="https://github.com/hennees/strykerlabs-showcase"><img src="assets/stryker.png" width="150"></a></td>
 <td>
 
 **[Wearable Data Interface](https://github.com/hennees/strykerlabs-showcase)**

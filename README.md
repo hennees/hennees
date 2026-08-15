@@ -2,17 +2,6 @@
   <img src="assets/banner.png" alt="Patrick Hennes, UI/UX Designer and eHealth Developer, Graz Austria" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-0E0F10?style=flat-square&logo=swift&logoColor=F85900">
-  <img src="https://img.shields.io/badge/Kotlin-0E0F10?style=flat-square&logo=kotlin&logoColor=F85900">
-  <img src="https://img.shields.io/badge/Flutter-0E0F10?style=flat-square&logo=flutter&logoColor=F85900">
-  <img src="https://img.shields.io/badge/TypeScript-0E0F10?style=flat-square&logo=typescript&logoColor=F85900">
-  <img src="https://img.shields.io/badge/React-0E0F10?style=flat-square&logo=react&logoColor=F85900">
-  <img src="https://img.shields.io/badge/Next.js-0E0F10?style=flat-square&logo=nextdotjs&logoColor=F85900">
-  <img src="https://img.shields.io/badge/Firebase-0E0F10?style=flat-square&logo=firebase&logoColor=F85900">
-  <img src="https://img.shields.io/badge/Figma-0E0F10?style=flat-square&logo=figma&logoColor=F85900">
-  <img src="https://img.shields.io/badge/HL7%20FHIR-0E0F10?style=flat-square&logo=hl7&logoColor=F85900">
-</p>
 
 <br>
 
@@ -50,7 +39,7 @@ daily rituals. Built solo alongside a full-time master's and a job. 78,000
 lines of Dart across 11 feature modules, a serverless backend, subscriptions,
 offline maps, iOS widgets. Nine months, 493 commits.
 
-`Flutter` `Dart` `Firebase` `RevenueCat` `Mapbox` `WidgetKit`
+Flutter · Dart · Firebase · RevenueCat · Mapbox · WidgetKit
 
 </td>
 </tr>
@@ -65,7 +54,7 @@ own words, combining validated questionnaires with a voice journal the model
 listens to. Every measurement becomes an HL7 FHIR R4 Observation. Evaluated
 with 20 participants, **SUS 86.8**.
 
-`Flutter` `Firebase` `Python` `HL7 FHIR R4` `LLM & acoustic analysis`
+Flutter · Firebase · Python · HL7 FHIR R4 · LLM & acoustic analysis
 
 </td>
 </tr>
@@ -80,7 +69,7 @@ Graz. Heart rate, sleep and activity from different vendors, harmonised into
 one model. I built the Garmin integration and the dashboard.
 [Published by FH JOANNEUM](https://www.fh-joanneum.at/projekt/strykerlabs/).
 
-`TypeScript` `React` `OAuth 2.0 PKCE` `Webhooks` `PostgreSQL`
+TypeScript · React · OAuth 2.0 PKCE · Webhooks · PostgreSQL
 
 </td>
 </tr>
@@ -96,7 +85,7 @@ add. Own venture with [ITanic GmbH](https://itanic.at) and
 [Kyri Agency](https://www.kyri.agency/). I own product concept and user flows.
 [scoon-app.com](https://scoon-app.com)
 
-`Product concept` `UI/UX` `Figma`
+Product concept · UI/UX · Figma
 
 </td>
 </tr>
@@ -111,7 +100,7 @@ building and its history appears over the street. I worked on the frontend,
 native on both platforms. The Erasmus project that got me into this in the
 first place.
 
-`Kotlin` `Swift` `Maps` `AR`
+Kotlin · Swift · Maps · AR
 
 </td>
 </tr>
@@ -142,10 +131,6 @@ either.
 
 <br>
 
-<p align="center">
-  <a href="https://henux.at"><img src="https://img.shields.io/badge/henux.at-F85900?style=for-the-badge&logoColor=0E0F10"></a>
-  <a href="https://linkedin.com/in/hennespatrick"><img src="https://img.shields.io/badge/LinkedIn-0E0F10?style=for-the-badge&logo=linkedin&logoColor=F85900"></a>
-  <a href="mailto:patrick.hennes27@gmail.com"><img src="https://img.shields.io/badge/Email-0E0F10?style=for-the-badge&logo=gmail&logoColor=F85900"></a>
-</p>
+**[henux.at](https://henux.at)** · [LinkedIn](https://linkedin.com/in/hennespatrick) · [patrick.hennes27@gmail.com](mailto:patrick.hennes27@gmail.com)
 
-<p align="center"><sub>Open to mobile and web roles in Graz, remote, or internationally.</sub></p>
+Open to mobile and web roles in Graz, remote, or internationally.

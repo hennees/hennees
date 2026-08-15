@@ -93,6 +93,7 @@ Kotlin and Swift for both platforms.
 Community platform where photographers find and share shooting locations. Own
 venture with two partners. Product concept and user flows, including the model
 that pays contributors for the places they add.
+[scoon-app.com](https://scoon-app.com) · [@scoon.app](https://instagram.com/scoon.app)
 
 </td>
 </tr>

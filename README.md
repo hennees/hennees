@@ -107,9 +107,9 @@ add. Own venture with [ITanic GmbH](https://itanic.at) and
 ### [Anno Amsterdam](https://github.com/hennees/anno-amsterdam-showcase)
 
 AR tourism app built for Amsterdam's 750th anniversary. Point your phone at a
-building and its history appears over the street. Frontend built with
-[Fabian Greimel](https://styrialabs.com), native on both platforms. The Erasmus
-project that got me into this in the first place.
+building and its history appears over the street. I worked on the frontend,
+native on both platforms. The Erasmus project that got me into this in the
+first place.
 
 `Kotlin` `Swift` `Maps` `AR`
 

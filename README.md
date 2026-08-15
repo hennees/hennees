@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.jpg">
-  <img alt="henUx, Patrick Hennes, UI/UX Designer and eHealth Developer in Graz, Austria" src="assets/banner-light.jpg" width="100%">
+  <img alt="henUx, Patrick Hennes, UI/UX Designer and eHealth Developer in Graz, Austria. Screens from Amigon and Pairfect." src="assets/banner-light.jpg" width="100%">
 </picture>
 
 <br>

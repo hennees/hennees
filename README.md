@@ -27,6 +27,10 @@ test and release telemedicine systems running in Austrian care programmes.
 Seeing where software fails once real people depend on it changed how I build
 it.
 
+AI tools are part of how I work, and part of what I build. The voice analysis
+in Amigon runs on one, in production, with a confidence value the interface
+actually shows.
+
 <br>
 
 ## Selected work
@@ -102,10 +106,10 @@ add. Own venture with [ITanic GmbH](https://itanic.at) and
 
 ### [Anno Amsterdam](https://github.com/hennees/anno-amsterdam-showcase)
 
-AR tourism app for Amsterdam. Explore building information through augmented
-reality and pick your own route through the city. The Erasmus project that got
-me into this in the first place. I owned the frontend, native on both
-platforms.
+AR tourism app built for Amsterdam's 750th anniversary. Point your phone at a
+building and its history appears over the street. Frontend built with
+[Fabian Greimel](https://styrialabs.com), native on both platforms. The Erasmus
+project that got me into this in the first place.
 
 `Kotlin` `Swift` `Maps` `AR`
 
@@ -126,15 +130,6 @@ platforms.
 Both university projects are published as they were written, each ending with a
 section on what I would do differently now. A portfolio that only shows the good
 parts is not a portfolio, it is a brochure.
-
-<br>
-
-## On AI
-
-I use AI tools in basically everything I do, not as a shortcut, but because
-they genuinely make the work better and faster. What I do not outsource is
-knowing why the code looks the way it does. Ask me about any line in anything
-here.
 
 <br>
 

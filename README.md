@@ -27,8 +27,8 @@ actually shows.
 <td width="42%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-dark.gif">
-  <img src="assets/coding-light.gif" alt="Three monitors of code, with HTML, CSS and JavaScript orbiting above them" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-dark.webp">
+  <img src="assets/coding-light.webp" alt="Three monitors of code, with HTML, CSS and JavaScript orbiting above them" width="100%">
 </picture>
 
 </td>

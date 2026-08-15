@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Patrick Hennes, UI/UX Designer and eHealth Developer, Graz Austria" width="100%">
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="henUx, Patrick Hennes, UI/UX Designer and eHealth Developer in Graz, Austria" src="assets/banner-light.png" width="100%">
+</picture>
 
 <br>
 

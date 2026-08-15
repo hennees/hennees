@@ -109,11 +109,30 @@ first place.
 
 ## Open source
 
-| | |
-|---|---|
-| **[exif_scrubber](https://github.com/hennees/exif_scrubber)** | Strips EXIF and XMP from JPEGs losslessly, without re-encoding pixels. Pure Dart, no plugins, 17 tests. Pulled out of a production app, where a photo leaving a phone carries its owner's home address in the file header. |
-| **[pokedex-swiftui](https://github.com/hennees/pokedex-swiftui)** | A Pokédex with fluid animations and detailed profiles. My first iOS project, 2023. |
-| **[newsapp-compose](https://github.com/hennees/newsapp-compose)** | Android news reader. Jetpack Compose, Hilt, Paging 3, clean architecture. 2024. |
+<table>
+<tr>
+<td width="26%" align="center"><a href="https://github.com/hennees/pokedex-swiftui"><img src="assets/pokedex.png" width="150"></a></td>
+<td width="74%">
+
+### [pokedex-swiftui](https://github.com/hennees/pokedex-swiftui)
+
+A Pokédex on the PokéAPI with fluid animations, type-coloured detail pages and
+favourites that survive going offline. My first iOS project, 2023, and the code
+is public exactly as I wrote it back then.
+
+`Swift` `SwiftUI` `MVVM` `Network.framework`
+
+</td>
+</tr>
+</table>
+
+**[exif_scrubber](https://github.com/hennees/exif_scrubber)** — strips EXIF and
+XMP from JPEGs losslessly, without re-encoding pixels. Pure Dart, 17 tests.
+Pulled out of a production app, because a photo leaving a phone carries its
+owner's home address in the file header.
+
+**[newsapp-compose](https://github.com/hennees/newsapp-compose)** — Android news
+reader. Jetpack Compose, Hilt, Paging 3, clean architecture. 2024.
 
 Both university projects are published as they were written, each ending with a
 section on what I would do differently now. A portfolio that only shows the good

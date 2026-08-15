@@ -1,4 +1,6 @@
-<img src="assets/banner.jpg" alt="henUx. Designing and building mobile health software. Patrick Hennes, UI/UX Designer and eHealth Developer, Graz, Austria." width="100%">
+<p align="center">
+  <img src="assets/banner.png" alt="Patrick Hennes, henUX. UI/UX Designer, eHealth Developer, Mobile App Creator. Graz, Austria." width="100%">
+</p>
 
 <br>
 

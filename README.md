@@ -4,6 +4,10 @@
 
 <br>
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 I'm Patrick, from Graz. Got into tech early and never really stopped. I found
 UI/UX during an Erasmus semester in the Netherlands, on a project for the city
 of Amsterdam, and that changed the direction of everything since.
@@ -18,6 +22,18 @@ it.
 AI tools are part of how I work, and part of what I build. The voice analysis
 in Amigon runs on one, in production, with a confidence value the interface
 actually shows.
+
+</td>
+<td width="42%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-dark.gif">
+  <img src="assets/coding-light.gif" alt="Three monitors of code, with HTML, CSS and JavaScript orbiting above them" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
 
 <br>
 

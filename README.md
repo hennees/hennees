@@ -97,6 +97,21 @@ that pays contributors for the places they add.
 
 </td>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/hennees/strykerlabs-showcase"><img src="https://cdn3.fh-joanneum.at/media/2026/06/stryker_Bild1.jpeg" width="150"></a></td>
+<td>
+
+**[Wearable Data Interface](https://github.com/hennees/strykerlabs-showcase)**
+
+A vendor-agnostic interface harmonising data from heterogeneous wearables for
+eHealth research. Built at the Institute of eHealth, FH JOANNEUM, in
+cooperation with Strykerlabs GmbH, who own the product. I built the Garmin
+integration, OAuth 2.0 PKCE and real-time webhook ingestion, and the
+integration dashboard.
+[Published by FH JOANNEUM](https://www.fh-joanneum.at/projekt/strykerlabs/)
+
+</td>
+</tr>
 </table>
 
 <br>
